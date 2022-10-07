@@ -1,4 +1,0 @@
-# NewProject
-Learning GitHub
-
-## Details
